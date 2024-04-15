@@ -1,0 +1,4 @@
+The sum of the numbers is: 617.0
+The lowest number is: 12.0
+The highest number is: 123.0
+The average of the numbers is: 61.7
