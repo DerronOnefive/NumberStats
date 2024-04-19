@@ -1,3 +1,10 @@
+/**Class: Poem
+ * @author Derron Pierre
+ * @version 1.0
+ * Course: ITEC 2140 Spring 2024
+ * Written: April 17, 2024
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
